@@ -1,8 +1,7 @@
-# Attend2Pack: Bin Packing through Deep Reinforcement Learning with Attention
-CS7643 Summer 2024 Project: Andre Klein and Jordan Larson
+# Bin Packing through Deep Reinforcement Learning with Attention
 
 ## Project Description
-This project implements the Attend2Pack algorithm, a deep reinforcement learning approach to solving bin packing problems. It uses attention mechanisms and policy gradient methods to learn efficient packing strategies.
+This project implements aspects of the Attend2Pack algorithm, a deep reinforcement learning approach to solving bin packing problems. It uses attention mechanisms and policy gradient methods to learn efficient packing strategies.
 
 ## Installation
 
@@ -15,4 +14,4 @@ This project implements the Attend2Pack algorithm, a deep reinforcement learning
 
 ```
 conda env create -f environment.yml
-conda activate cs7643-final-project
+conda activate rlbpp

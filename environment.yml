@@ -1,9 +1,9 @@
-name: cs7643-final-project
+name: rlbpp
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.9
   - matplotlib
   - tqdm
   - jupyter
@@ -16,3 +16,4 @@ dependencies:
     - torchaudio
     - notebook
     - spacy
+    - gymnasium
